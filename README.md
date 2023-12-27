@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Arsal
+- 👋 Hi, I am Muhammad Arsal
 - 👀 I love C++ and NLP
 - 🌱 I’m currently doing a degree in Computer Engineering 
 - 📫 You can reach me at my LinkedIn https://www.linkedin.com/in/muhammadarsal16/
