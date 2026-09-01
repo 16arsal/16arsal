@@ -1,33 +1,41 @@
 # Muhammad Arsal
 
-Computer Engineering graduate interested in AI, computer vision, software systems, product thinking, and UX-focused engineering.
+## Product Manager for AI and data products
 
-I like building practical systems that connect data, interfaces, and real-world decision-making. My projects include cloud microservices, analytics dashboards, operations modeling, database-backed applications, and C++ systems coursework.
+I turn ambiguous operational problems into clear product decisions: understand the real workflow, isolate the riskiest assumption, choose the smallest useful release, and define the evidence that would justify scaling it. My computer-engineering background helps me collaborate closely with design and engineering, especially on AI-assisted workflows, data products, and internal tools where trust, reliability, and human judgment matter.
 
-## Focus Areas
+## How I work
 
-- AI, machine learning, and computer vision
-- Data pipelines and analytics dashboards
-- Backend systems and cloud fundamentals
-- Product-minded software and UX workflows
-- C++, Python, JavaScript, SQL, and Streamlit
+- Start with the user's decision, current workaround, and cost of failure.
+- Separate observed evidence, assumptions, constraints, and open questions.
+- Compare alternatives and make the tradeoffs explicit.
+- Define outcome metrics and quality guardrails before building.
+- Label results honestly as measured, simulated, or proposed.
+- Treat limitations, exception states, and human handoffs as product requirements.
 
-## Featured Projects
+## Product themes
 
-- **DataHive Lakehouse Logging System** - Dockerized microservices backend with RabbitMQ, PostgreSQL, authentication, and structured event logs.
-- **Bakery Operations Analytics** - Python-based demand forecasting and inventory planning using ABC analysis, EOQ, safety stock, and reorder points.
-- **Retail Analytics Pipeline** - ETL pipeline with Pandas, SQLite star schema modeling, and a Streamlit dashboard.
-- **Wall Street Admin System** - Database-backed web admin system for managing financial institution workflows.
-- **S&P 500 Linear Algebra Modeling** - Educational modeling project using linear regression and matrix factorization.
-- **C++ Flight Management System** - Console-based route and reservation system using data structures and graph traversal.
+- **AI-assisted B2B workflows** with meaningful human review and traceable evidence.
+- **Data products** that turn messy inputs into operational decisions.
+- **Internal platforms** where reliability, permissions, and auditability are part of the user experience.
 
-## Currently Improving
+## Selected product case studies
 
-- Stronger README documentation across projects
-- Cleaner repo structure and reproducible setup steps
-- More polished screenshots and project demos
-- AI/computer vision portfolio work
+| Case study | Product question | What it demonstrates |
+| --- | --- | --- |
+| [Axiom Bee AI Inspection](https://github.com/16arsal/axiom-bee-product-case-study) | How can AI accelerate industrial inspection without hiding uncertainty or removing human accountability? | Workflow framing, human review, evidence traceability, risk, and rollout thinking |
+| [Bakery Inventory Decision Support](https://github.com/16arsal/OM_Bakery_Operations_Project) | How should a bakery prioritize inventory when demand and operating assumptions are uncertain? | Prioritization, service/cost tradeoffs, transparent assumptions, and decision support |
+| [Retail Analytics Decision Support](https://github.com/16arsal/DBA) | Which data and metrics help retail operators make better daily decisions? | Metric definition, data quality, analytical modeling, and dashboard design |
+| [DataHive Event Platform](https://github.com/16arsal/350_datahive_lakehouse_logging) | What must a distributed system record so teams can trust and operate it? | Event contracts, auditability, reliability, and failure-aware platform thinking |
+
+## Evidence standard
+
+These repositories include prototypes and academic projects. Each case study distinguishes verified behavior from assumptions, synthetic inputs, and proposed improvements. I do not present simulated results as production outcomes.
+
+## Technical foundation
+
+Computer engineering, Python, JavaScript, SQL, cloud systems, analytics pipelines, computer vision, and UX-focused implementation. I use this foundation to ask better product questions and work effectively across product, design, data, and engineering.
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/muhammadarsal16/
+[LinkedIn](https://www.linkedin.com/in/muhammadarsal16/) · [Email](mailto:muhammadarsal28@gmail.com)
